@@ -3,7 +3,7 @@
 ## Sobre mim
 - Estudante de Desenvolvimento de Sistemas no Senai Pompeia
 
-## Minhas áres de desenvolvimento
+## Minhas áreas de desenvolvimento
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="java logo"  />
   <img width="12" />
@@ -15,7 +15,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="docker logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=node" height="45" alt="kubernetes logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=typescript" height="45" alt="amazonwebservices logo"  />
   <img width="12" />
