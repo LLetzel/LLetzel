@@ -1,10 +1,12 @@
 # 👨🏻‍💻 Lucas Letzel
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 ## Sobre mim
 👨🏻‍🎓 Formações no SENAI Pompeia "Shunji Nishimura"
+
 📘 Estudando PHP com framework em Laravel
+
 
 
 ## 🤖 Linguagens e Tecnologias
@@ -30,8 +32,10 @@
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
 </div>
 
-### 📊 Estatísticas
 
+
+
+### 📊 Estatísticas
 <p>
   <img 
     align="left" 
