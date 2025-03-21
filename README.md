@@ -1,37 +1,52 @@
-## 👋 Olá, Eu sou o Lucas Letzel 
+# 👨🏻‍💻 Lucas Letzel
+
+**`Desenvolvedora FullStack`**
 
 ## Sobre mim
-- Estudante de Desenvolvimento de Sistemas no Senai Pompeia
+👨🏻‍🎓 Formações no SENAI Pompeia "Shunji Nishimura"
+📘 Estudando PHP com framework em Laravel
 
-## Minhas áreas de desenvolvimento
+
+## 🤖 Linguagens e Tecnologias
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" alt="spring logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="45" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="js logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="45" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="45" alt="js logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="kubernetes logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="45" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="45" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=typescript" height="45" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="45" alt="dart logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
 </div>
 
-## Meus status
+### 📊 Estatísticas
 
-###
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=LLetzel&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LLetzel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LLetzel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LLetzel&radius=16&theme=gruvbox&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LLetzel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-###
+</p>
+
