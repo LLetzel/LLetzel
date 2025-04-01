@@ -20,15 +20,15 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="js logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="45" alt="js logo"  />
-  <img width="12" />
+<!--   <img src="https://skillicons.dev/icons?i=python" height="45" alt="js logo"  /> -->
+<!--   <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="45" alt="typescript logo"  />
+<!--   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="45" alt="typescript logo"  /> -->
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dart" height="45" alt="dart logo"  />
   <img width="12" />
